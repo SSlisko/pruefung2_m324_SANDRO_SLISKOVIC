@@ -1,0 +1,1 @@
+Die Action stellt sicher, dass der Code weiterhin gut getestet wird und eine hohe Testabdeckung aufweist, was den praktischen Nutzen für CI/CD bietet.
